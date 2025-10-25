@@ -13,7 +13,7 @@ from pathlib import Path
 class PDFConverterClient:
     def __init__(self):
         # Hardcoded server URL
-        self.server_url = "http://192.168.68.138:8000" 
+        self.server_url = "http://localhost:8000" 
         self.session = requests.Session()
     
     def check_server_health(self):
@@ -362,7 +362,7 @@ def main():
 def interactive_mode():
     """Interactive mode for user-friendly experience"""
     print("PDF to HTML Converter Client - Interactive Mode")
-    print("Server: http://103.227.97.76:8080")
+    print("Server: http://localhost:8000")
     print("Output will be saved in same directory as PDF")
     print("=" * 50)
     
