@@ -1,4 +1,4 @@
-# 📓Raster Image → HTML (OCR) Converter
+# 📓Raster Image → HTML Converter
 
 Turns page photos or PDF images into interactive, searchable HTML using OCR (client–server application).
 
