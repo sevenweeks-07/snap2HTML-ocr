@@ -1,6 +1,6 @@
-# PDF to HTML OCR Converter
+# 📓Raster Image → HTML (OCR) Converter
 
-A client-server application that converts PDF documents to interactive HTML pages using OCR technology.
+Turns page photos or PDF images into interactive, searchable HTML using OCR (client–server application).
 
 ## Features
 
